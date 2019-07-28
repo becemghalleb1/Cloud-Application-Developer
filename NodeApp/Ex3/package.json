@@ -6,8 +6,8 @@
 		"start": "node app.js"
 	},
 	"dependencies": {
-		"express": "4.*",
 		"body-parser": "latest",
-		"watson-developer-cloud": "*"
+		"express": "4.*",
+		"ibm-watson": "^4.3.0"
 	}
 }

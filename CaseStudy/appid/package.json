@@ -8,7 +8,7 @@
   "dependencies": {
     "cfenv": "^1.0.0",
     "commander": "^2.6.0",
-    "express": "3.4.8",
+    "express": "4.*",
     "express-session": "^1.15.6",
     "http-post": "^0.1.1",
     "ibmcloud-appid": "^5.0.0",
